@@ -27,8 +27,3 @@ Please follow the [wiki](https://github.com/orig74/DroneSimLab/wiki)
       year={2017},
       note={WSCG 2017 proceedings}
     }
-
-## Contact:  
-oga13@uclive.ac.nz  
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DRQZLNA24SSN4)
